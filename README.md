@@ -4,10 +4,10 @@
 edx + Harvard | 2015
 URL: https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x
 
-### Week 1
+## Week 1
 
-### Week 2
+## Week 2
 
-### Week 3
+## Week 3
 
-### Week 4
+## Week 4
