@@ -56,3 +56,4 @@ mean(Primates)
 # 6.
 
 filter(msleep, order =="Primates") %>% summarise(mean(sleep_total))
+
